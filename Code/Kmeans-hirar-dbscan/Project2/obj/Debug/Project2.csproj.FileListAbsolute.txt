@@ -1,0 +1,63 @@
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.exe
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.pdb
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Interop.PowerPivotExcelClientAddInLib.dll
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.csproj.ResolveComReference.cache
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.Form1.resources
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.exe
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.pdb
+c:\users\avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\Project2\Project2\bin\Debug\alglibnet2.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\NMath.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\NMath.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Data.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Generic.Net40.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Net40.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.SinglePrecision.Net40.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Version4x.Net40.dll
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Data.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Generic.Net40.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Net40.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.SinglePrecision.Net40.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Extreme.Numerics.Version4x.Net40.xml
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.csproj.Project2.exe.config
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.Form2.resources
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.Form3.resources
+C:\Users\Avijeet\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.Form4.resources
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Project2.exe.config
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Project2.exe
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Project2.pdb
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Extreme.Data.xml
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Extreme.Numerics.Generic.Net40.xml
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Extreme.Numerics.Net40.xml
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Extreme.Numerics.SinglePrecision.Net40.xml
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\Extreme.Numerics.Version4x.Net40.xml
+E:\data mining\project2\Project2.2\Project2\Project2\bin\Debug\NMath.xml
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.csproj.Project2.exe.config
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Interop.PowerPivotExcelClientAddInLib.dll
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.csproj.ResolveComReference.cache
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.Form1.resources
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.Form2.resources
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.Form3.resources
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.Form4.resources
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.exe
+E:\data mining\project2\Project2.2\Project2\Project2\obj\Debug\Project2.pdb
+E:\data mining\pp22\Project2.2\Project2\Project2\bin\Debug\Project2.exe.config
+E:\data mining\pp22\Project2.2\Project2\Project2\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\data mining\pp22\Project2.2\Project2\Project2\obj\Debug\Interop.PowerPivotExcelClientAddInLib.dll
+E:\data mining\pp22\Project2.2\Project2\Project2\obj\Debug\Project2.csproj.ResolveComReference.cache
+E:\data mining\pp22\Project2.2\Project2\Project2\obj\Debug\Project2.exe
+E:\data mining\pp22\Project2.2\Project2\Project2\obj\Debug\Project2.pdb
